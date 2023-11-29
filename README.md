@@ -5,8 +5,8 @@
 This project delves into a dataset of traffic stops by police officers, collected by the Stanford Open Policing Project, focusing specifically on data from Rhode Island. The analysis seeks to uncover insights into police activity, examining the impact of driver gender and weather conditions on police behavior.
 
 ## Datasets
-- **Police Dataset**: Detailed records of traffic stops, including driver demographics, violations, searches, and stop outcomes.
-- **Weather Dataset**: Daily weather conditions from a weather station near Rhode Island's center, providing context for the environmental conditions during traffic stops.
+- `police.csv`: Detailed records of traffic stops, including driver demographics, violations, searches, and stop outcomes.
+- `weather.csv`: Daily weather conditions from a weather station near Rhode Island's center, providing context for the environmental conditions during traffic stops.
 
 ## Methodology
 1. **Data Preparation and Cleaning**: Addressed missing values, dropped irrelevant columns, and transformed data types for more accurate analysis.
