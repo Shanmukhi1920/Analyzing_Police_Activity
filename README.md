@@ -14,14 +14,12 @@ This project delves into a dataset of traffic stops by police officers, collecte
 3. **Impact of Time and Drugs**: Analyzed the arrest rate over different times of the day and the trend in drug-related stops over the years.
 4. **Weather Conditions and Policing**: Explored how weather conditions affect the rate of arrests and policing behavior.
 
-## Requirements
-- Python 3.x
-- Libraries: pandas, NumPy, Matplotlib, seaborn
 
 ## Installation and Usage
 ```bash
 git clone https://github.com/Shanmukhi1920/Analyzing_Police_Activity
 cd Analyzing_Police_Activity
+pip install -r requirements.txt
 jupyter notebook
 ```
 Then, open `Analyzing_Police_Activity.ipynb` in Jupyter.
