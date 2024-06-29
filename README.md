@@ -5,8 +5,8 @@
 This project delves into a dataset of traffic stops by police officers, collected by the Stanford Open Policing Project, focusing specifically on data from Rhode Island. The analysis seeks to uncover insights into police activity, examining the impact of driver gender and weather conditions on police behavior.
 
 ## Datasets
-- `police.csv`: Detailed records of traffic stops, including driver demographics, violations, searches, and stop outcomes.
-- `weather.csv`: Daily weather conditions from a weather station near Rhode Island's center, providing context for the environmental conditions during traffic stops.
+- `data/police.csv`: Detailed records of traffic stops, including driver demographics, violations, searches, and stop outcomes.
+- `data/weather.csv`: Daily weather conditions from a weather station near Rhode Island's center, providing context for the environmental conditions during traffic stops.
 
 ## Methodology
 1. **Data Preparation and Cleaning**: Addressed missing values, dropped irrelevant columns, and transformed data types for more accurate analysis.
@@ -22,7 +22,7 @@ cd Analyzing_Police_Activity
 pip install -r requirements.txt
 jupyter notebook
 ```
-Then, open `Analyzing_Police_Activity.ipynb` in Jupyter.
+Then, open `Analyzing_Police_Activity.ipynb` present in the `notebooks/' directory in Jupyter.
 
 ## Results
 - **Gender and Violations**: Females are more often stopped for speeding, whereas males have a more varied distribution of violations.
