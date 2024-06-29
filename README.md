@@ -22,7 +22,7 @@ cd Analyzing_Police_Activity
 pip install -r requirements.txt
 jupyter notebook
 ```
-Then, open `Analyzing_Police_Activity.ipynb` present in the `notebooks/' directory in Jupyter.
+Then, open `Analyzing_Police_Activity.ipynb` present in the `notebooks/` directory in Jupyter.
 
 ## Results
 - **Gender and Violations**: Females are more often stopped for speeding, whereas males have a more varied distribution of violations.
