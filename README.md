@@ -1,5 +1,4 @@
 
-
 ## Overview
 This project analyzes a dataset of police traffic stops in Rhode Island, sourced from the Stanford Open Policing Project. The study aims to uncover patterns in police activity, with a particular focus on how driver gender and weather conditions influence police behavior during traffic stops. By examining these factors, the project seeks to provide insights into potential biases or trends in law enforcement practices. The findings may be valuable for law enforcement agencies, policymakers, and researchers studying racial and gender disparities in policing, as well as the impact of external factors like weather on police decision-making during traffic stops.
 
