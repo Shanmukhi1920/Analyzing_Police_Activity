@@ -1,8 +1,8 @@
 
 # Analyzing Police Activity with Python
 
-## Project Overview
-This project delves into a dataset of traffic stops by police officers, collected by the Stanford Open Policing Project, focusing specifically on data from Rhode Island. The analysis seeks to uncover insights into police activity, examining the impact of driver gender and weather conditions on police behavior.
+## Overview
+This project analyzes a dataset of police traffic stops in Rhode Island, sourced from the Stanford Open Policing Project. The study aims to uncover patterns in police activity, with a particular focus on how driver gender and weather conditions influence police behavior during traffic stops. By examining these factors, the project seeks to provide insights into potential biases or trends in law enforcement practices. The findings may be valuable for law enforcement agencies, policymakers, and researchers studying racial and gender disparities in policing, as well as the impact of external factors like weather on police decision-making during traffic stops.
 
 ## Datasets
 - `data/police.csv`: Detailed records of traffic stops, including driver demographics, violations, searches, and stop outcomes.
